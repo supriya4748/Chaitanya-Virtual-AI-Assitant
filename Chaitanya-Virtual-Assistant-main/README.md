@@ -49,6 +49,6 @@ Feel free to submit **pull requests** or report **issues** to improve this assis
 
 ## **Author**  
 👨‍💻 Developed by **Supriya Mishra**  
-📌 **GitHub**: [Supriya Mishral](https://github.com/supriya4748)  
+📌 **GitHub**: [Supriya Mishra](https://github.com/supriya4748)  
 
 ---
